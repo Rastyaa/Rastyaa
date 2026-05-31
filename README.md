@@ -4,7 +4,7 @@
 <h3 align="center">Software Engineer and IT student at Universitas Pendidikan Nasional (Undiknas)</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=[USERNAME_GITHUB_KAMU]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=[Rastyaa]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
 <div align="left">
@@ -34,7 +34,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=[USERNAME_GITHUB_KAMU]&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=[Rastyaa]&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=[USERNAME_GITHUB_KAMU]&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false&bg_color=black" height="300" alt="activity-graph graph"  />
 </div>
 
