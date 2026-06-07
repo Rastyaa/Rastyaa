@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer and IT student at Universitas Pendidikan Nasional (Undiknas)
+Software Engineer and IT student at Universitas Pendidikan Nasional (Undiknas) 
 
 
 ## 🌐 Socials:
