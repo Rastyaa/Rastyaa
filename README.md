@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sattyatma Naryndra</h1>
+<h1 align="center">Hi 👋, I'm Rendrastya</h1>
 <h3 align="center">Frontend Developer</h3>
 
 - 🔭 I’m currently working on **Guestlist**
