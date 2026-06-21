@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rendrastya</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🔭 I’m currently working on **Guestlist**
+- 🔭 I’m currently working on **Guestlist.id**
 
 - 📫 How to reach me **renkdk2314@gmail.com**
 
-- ⚡ Fun fact **i think im funny**
+- ⚡ Fun fact **i think im dumb**
 
 
 <p align="left">
