@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Guestlist.id**
 
-- 📫 How to reach me **renkdk2314@gmail.com**
+- 📫 How to reach me **reenkdk2314@gmail.com**
 
 - ⚡ Fun fact **i think im dumb**
 
