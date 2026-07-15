@@ -93,18 +93,6 @@ const rendrastya = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rastyaa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38BDF8&line=C74BF7&point=FF6B6B&area=true&area_color=4A47F5" width="100%"/>
 
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rastyaa&theme=tokyonight" width="100%"/>
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rastyaa&theme=tokyonight"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rastyaa&theme=tokyonight"/>
-
-<br/><br/>
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rastyaa&theme=tokyonight"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rastyaa&theme=tokyonight&utcOffset=8"/>
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -113,16 +101,7 @@ const rendrastya = {
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28"/> Top Languages
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rastyaa&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C74BF7&text_color=ffffff&card_width=450&langs_count=8"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<!-- ══════════════════ TROPHIES ══════════════════ -->
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="28"/> Trophy Cabinet
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rastyaa&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rastyaa&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C74BF7&text_color=ffffff&card_width=450&langs_count=8"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
