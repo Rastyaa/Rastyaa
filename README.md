@@ -1,18 +1,113 @@
-<h1 align="center">Hi 👋, I'm Rendrastya</h1>
-<h3 align="center">Software Engineerr</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Guestlist.id**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20There!%20I'm%20Rendrastya&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%40%20Guestlist.id&descAlignY=55&descSize=18" width="100%"/>
 
-- 📫 How to reach me **reenkdk2314@gmail.com**
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+things+for+Guestlist.id+%F0%9F%8C%B4;React+%2B+Next.js+%2B+Go+%2B+PostgreSQL;Turning+coffee+into+code+in+Bali;Always+learning%2C+occasionally+debugging+at+2am" alt="Typing SVG" />
+</a>
 
-- ⚡ Fun fact **i think im dumb**
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=Rastyaa&label=Profile%20Views&color=7c3aed&style=flat" alt="profile views"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=7c3aed&label=followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRastyaa&style=flat" alt="followers"/>
 
-<p align="left">
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<br/>
 
-![Rastyaa's GitHub Stats](https://readme-stats-github.pages.dev/api?username=Rastyaa&theme=shadow)
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=Rastyaa&theme=shadow)
+## 👋 About Me
+
+- 🔭 Currently building **[Guestlist.id](https://guestlist.id)** — a Bali-based activity & experience booking platform
+- 💻 Fullstack: **React, Next.js, TypeScript, Go, PostgreSQL, Docker, Firebase, Cloudflare, React Native**
+- 📫 Reach me at **reenkdk2314@gmail.com**
+- ⚡ Fun fact: I ship features by day, and my brain keeps compiling them by night
+
+<div align="center">
+<a href="mailto:reenkdk2314@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,go,postgres,docker,firebase,cloudflare,reactnative,nodejs,git,figma,linux&perline=7"/>
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rastyaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rastyaa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rastyaa&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rastyaa&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Rastyaa/Rastyaa/output/github-contribution-grid-snake.svg"/>
+</div>
+
+<p align="center"><i>⚠️ This one won't render until you set up the GitHub Action below — see setup notes.</i></p>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer"/>
+</div>
+
+---
+
+## ⚙️ Setup Notes (baca dulu sebelum panik kalau ada yang gak muncul)
+
+1. **File ini harus jadi README di repo khusus profil.** Kalau belum ada, buat repo baru bernama persis `Rastyaa` (sama seperti username GitHub-mu), lalu paste isi file ini sebagai `README.md`. GitHub otomatis menampilkannya di halaman profil.
+
+2. **Stats card / streak card kadang lambat atau kena rate limit** — ini instance publik gratis yang dipakai banyak orang, jadi kadang muncul "Error" sementara. Biasanya pulih sendiri dalam beberapa menit; kalau sering terjadi, kamu bisa self-host di Vercel-mu sendiri (linknya ada di masing-masing repo project).
+
+3. **Animasi ular (snake) butuh GitHub Action** supaya bisa jalan. Buat file `.github/workflows/snake.yml` di repo `Rastyaa/Rastyaa` isinya:
+
+```yaml
+name: generate animation
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Rastyaa
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+   Push filenya, lalu jalankan manual sekali lewat tab **Actions → Run workflow**. Setelah itu ularnya akan otomatis "memakan" grafik kontribusimu tiap 6 jam.
+
+4. **Ganti tema:** semua card di atas pakai tema `tokyonight`. Tinggal ganti jadi `dark`, `radical`, `merko`, `dracula`, `synthwave`, dll — daftar lengkap ada di masing-masing repo project (github-readme-stats, github-profile-trophy, dst).
