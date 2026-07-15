@@ -83,11 +83,11 @@ const rendrastya = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rastyaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=C74BF7&icon_color=38BDF8&text_color=ffffff&ring_color=FF6B6B"/>
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=Rastyaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=C74BF7&icon_color=38BDF8&text_color=ffffff&ring_color=FF6B6B"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rastyaa&theme=tokyonight&hide_border=true&background=0d1117&ring=C74BF7&fire=FF6B6B&currStreakLabel=38BDF8"/>
+<img src="https://streak-stats.demolab.com/?user=Rastyaa&theme=tokyonight&hide_border=true&background=0d1117&ring=C74BF7&fire=FF6B6B&currStreakLabel=38BDF8"/>
 
 <br/><br/>
 
@@ -101,7 +101,7 @@ const rendrastya = {
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28"/> Top Languages
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rastyaa&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C74BF7&text_color=ffffff&card_width=450&langs_count=8"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rastyaa&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C74BF7&text_color=ffffff&card_width=450&langs_count=8"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
