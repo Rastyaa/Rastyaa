@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ══════════════════ ANIMATED HEADER ══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,25:C74BF7,75:4A47F5,100:38BDF8&height=300&text=RENDRASTYA&fontSize=70&fontColor=ffffff&animation=twinkling&desc=%E2%9C%A6%20Fullstack%20Developer%20%C2%B7%20Guestlist.id%20%C2%B7%20Bali%20%F0%9F%8C%B4%20%E2%9C%A6&descSize=20&descAlignY=65&stroke=ffffff30&strokeWidth=1" width="100%"/>
+<!-- ══════════════════ CUSTOM ANIMATED HEADER (meteors + particles + glow) ══════════════════ -->
+<img src="./header.svg" width="100%"/>
 
 <!-- ══════════════════ TYPING ANIMATION ══════════════════ -->
 <a href="https://git.io/typing-svg">
